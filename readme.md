@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Cálculo do IMC
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://josefilho0.github.io/Calculo-IMC/)
